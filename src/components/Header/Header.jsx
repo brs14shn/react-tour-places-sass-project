@@ -5,7 +5,7 @@ const Header=()=>{
 return(
    
     <header>
-        <h2>Popular Tou Places</h2>
+        <h2>Popular Tour Places</h2>
     </header>
 
 )
