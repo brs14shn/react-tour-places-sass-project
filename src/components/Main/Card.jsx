@@ -7,7 +7,7 @@ const Card=(data)=>{
     return(
        
         <div className="cards">
-             key={id}
+           
             <div className="title">
                 <h1>{title}</h1>
             </div>
