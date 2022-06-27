@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/brs14shn/tour-places-sass-project/static/css/main.5b9a12c7.css",
+    "main.js": "/brs14shn/tour-places-sass-project/static/js/main.5696f25e.js",
+    "index.html": "/brs14shn/tour-places-sass-project/index.html",
+    "main.5b9a12c7.css.map": "/brs14shn/tour-places-sass-project/static/css/main.5b9a12c7.css.map",
+    "main.5696f25e.js.map": "/brs14shn/tour-places-sass-project/static/js/main.5696f25e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b9a12c7.css",
+    "static/js/main.5696f25e.js"
+  ]
+}
